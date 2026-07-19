@@ -15,7 +15,7 @@
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## About
 
@@ -44,7 +44,7 @@ me = PranayV()
 print(me.philosophy())
 ```
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Tech Stack
 
@@ -77,7 +77,7 @@ print(me.philosophy())
 <img src="https://img.shields.io/badge/ModelSim-58A6FF?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/Cadence%20Genus-58A6FF?style=flat-square&labelColor=161b22"/>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## GitHub Stats
 
@@ -102,7 +102,7 @@ print(me.philosophy())
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Trophy Wall
 
@@ -110,7 +110,7 @@ print(me.philosophy())
 <img src="https://github-profile-trophy.vercel.app/?username=PranayViswaraj&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Work Experience
 
@@ -148,7 +148,7 @@ print(me.philosophy())
 
 </details>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Featured Projects
 
@@ -162,27 +162,28 @@ print(me.philosophy())
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Achievements
 
 <div align="center">
 
-| | Achievement | Details |
+| Achievement | Result | Project |
 |---|---|---|
-| — | Smart India Hackathon 2025 | Finalist — MIC & AICTE, National Level |
-| — | HackInfinity 2025 | Winner — SSN College of Engineering, Chennai |
-| — | K-Hacks 2025 | Special Track Winner — CEG, Anna University, Chennai |
-| — | HackElite 2024 | Winner — ECE Dept., SVCE |
-| — | EliteCom | Winner |
-| — | IETE Convention | Finalist — National-level research presentation |
-| — | Startup Surge | Winner |
-| — | Indian Patent Office | 2 patents filed — Blood Group ID System & AgroSmart |
-| — | National Hackathons | 10+ entries, consistent production-ready delivery under strict deadlines |
+| Smart India Hackathon 2025 | Finalist — MIC & AICTE, National Level | National-level problem statement, solved as a full-stack AI/IoT prototype |
+| HackInfinity 2025 | Winner — SSN College of Engineering, Chennai | Rapid-build AI/IoT prototype delivered under hackathon time constraints |
+| K-Hacks 2025 | Special Track Winner — CEG, Anna University, Chennai | Applied AI/embedded-systems track submission |
+| HackElite 2024 | Winner — ECE Dept., SVCE | Embedded/IoT hardware-software prototype |
+| **Hackerrupt '26** | **Runner-up** | **AI-Powered Offline Women Safety Wearable** — health & safety band |
+| EliteCom | Winner | Product/research showcase drawn from patent-filed work |
+| IETE Convention | Finalist — National-level research presentation | Non-Invasive Blood Group Identification via Fingerprint Pattern Analysis |
+| Startup Surge | Winner | Startup-style pitch built around AgroSmart, the precision-agriculture platform |
+| Indian Patent Office | 2 patents filed | Blood Group ID System & AgroSmart |
+| National Hackathons | 10+ entries | Consistent production-ready delivery across varied problem statements |
 
 </div>
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 ## Education
 
@@ -204,7 +205,7 @@ Embedded IoT    → Application-Driven Electronics & Embedded Tech (IITM Pravart
 Embedded ML     → RAIC — Embedded Systems & Machine Learning (ECE, SVCE)
 ```
 
----
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 <div align="center">
 
