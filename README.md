@@ -8,7 +8,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Sotware+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
   />
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
