@@ -37,6 +37,8 @@
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
+<p align="center"><img src="https://img.shields.io/badge/🧠-58A6FF?style=for-the-badge"/></p>
+
 ## About
 
 Final-year B.E. Electronics & Communication Engineering (VLSI Honours) student at Sri Venkateswara College of Engineering. I work across the full stack of a product — hardware, firmware, on-device ML, and the software that sits on top — and have shipped two such systems into live use at industry partners.
@@ -66,41 +68,53 @@ print(me.philosophy())
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
+<p align="center"><img src="https://img.shields.io/badge/🛠️-3FB950?style=for-the-badge"/></p>
+
 ## Tech Stack
 
 <div align="center">
 
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,react,flask,fastapi,mongodb,firebase,git,arduino,matlab&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,react,flask,fastapi,mongodb,firebase,git,arduino,matlab&theme=light" alt="Tech stack icons" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=light&perline=10" alt="Tech stack icons" />
 </picture>
+
+<br/><br/>
 
 </div>
 
+**🟢 Embedded & Edge AI**
+<img src="https://img.shields.io/badge/ESP32-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/FPGA%20(Altera)-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Verilog%20HDL-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/LoRa%20%2F%20GSM%20%2F%20GPS-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MQTT-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-3FB950?style=flat-square&labelColor=161b22"/>
+
 <br/>
 
-**Embedded & Edge AI**
-<img src="https://img.shields.io/badge/ESP32-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/FPGA%20(Altera)-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Verilog%20HDL-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/LoRa%20%2F%20GSM%20%2F%20GPS-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MQTT-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-58A6FF?style=flat-square&labelColor=161b22"/>
+**🟣 AI / ML**
+<img src="https://img.shields.io/badge/RAG-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/TinyML-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/CNN%20%2F%20LSTM-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Random%20Forest-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/CatBoost-A371F7?style=flat-square&labelColor=161b22"/>
 
-**AI / ML**
-<img src="https://img.shields.io/badge/RAG-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/TinyML-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/CNN%20%2F%20LSTM-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Random%20Forest-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/CatBoost-58A6FF?style=flat-square&labelColor=161b22"/>
+<br/>
 
-**Security & Tooling**
-<img src="https://img.shields.io/badge/AES--256-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Quartus%20Prime-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ModelSim-58A6FF?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Cadence%20Genus-58A6FF?style=flat-square&labelColor=161b22"/>
+**🔴 Security & Tooling**
+<img src="https://img.shields.io/badge/AES--256-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Quartus%20Prime-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ModelSim-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Cadence%20Genus-F85149?style=flat-square&labelColor=161b22"/>
+
+<br/>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/📊-A371F7?style=for-the-badge"/></p>
 
 ## GitHub Stats
 
@@ -143,6 +157,8 @@ print(me.philosophy())
   Until step 3 completes once, the image below renders as broken — that's expected until then.
 -->
 
+<p align="center"><img src="https://img.shields.io/badge/🧊-2DD4BF?style=for-the-badge"/></p>
+
 ### 3D Contribution Calendar
 
 <div align="center">
@@ -155,6 +171,8 @@ print(me.philosophy())
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
+<p align="center"><img src="https://img.shields.io/badge/🏆-D29922?style=for-the-badge"/></p>
+
 ## Trophy Wall
 
 <div align="center">
@@ -162,6 +180,8 @@ print(me.philosophy())
 </div>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/💼-2DD4BF?style=for-the-badge"/></p>
 
 ## Work Experience
 
@@ -201,6 +221,8 @@ print(me.philosophy())
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
+<p align="center"><img src="https://img.shields.io/badge/🚀-F778BA?style=for-the-badge"/></p>
+
 ## Featured Projects
 
 <div align="center">
@@ -211,9 +233,20 @@ print(me.philosophy())
 | [**AgroSmart — Precision Agriculture**](https://github.com/PranayViswaraj) | React • Flask • MongoDB • ESP32 • Random Forest • Gradient Boosting • CatBoost • MQTT | Autonomous irrigation control, **92% yield-prediction accuracy**, **30% water savings**, full ESP32 → MQTT → Flask → MongoDB → React pipeline |
 | [**Hand Gesture → Speech (FPGA)**](https://github.com/PranayViswaraj) | Verilog HDL • Quartus Prime • Cadence Genus • ModelSim • Altera FPGA | Real-time gesture-to-speech RTL for the speech-impaired — **200 MHz**, **<2ns** critical path, **<25mW** power draw |
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=light" alt="Built with" />
+</picture>
+
+<sub>Built with</sub>
+
 </div>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/🏅-F85149?style=for-the-badge"/></p>
 
 ## Achievements
 
@@ -236,6 +269,8 @@ print(me.philosophy())
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
+<p align="center"><img src="https://img.shields.io/badge/🎓-58A6FF?style=for-the-badge"/></p>
+
 ## Education
 
 <div align="center">
@@ -246,6 +281,8 @@ print(me.philosophy())
 | Higher Secondary — Computer Science | Sri Chaitanya Techno School, Perumbakkam | 2021 – 2023 | — |
 
 </div>
+
+<p align="center"><img src="https://img.shields.io/badge/📚-3FB950?style=for-the-badge"/></p>
 
 ## Currently Learning
 
@@ -263,6 +300,8 @@ print(me.philosophy())
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/📫-A371F7?style=for-the-badge"/>
 
 ### Connect
 
