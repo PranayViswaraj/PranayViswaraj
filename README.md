@@ -6,8 +6,14 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=Sensor+to+Edge+ML+to+Cloud+to+Dashboard+-+shipped+end+to+end;94%25+accurate+fingerprint+ML+%40+Rela+Hospitals;30%2B+forklifts+monitored+%40+Ashok+Leyland;2+patents+filed+-+10%2B+national+hackathon+wins" />
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=0969DA&background=00000000&center=true&vCenter=true&width=800&height=40&lines=Sensor+to+Edge+ML+to+Cloud+to+Dashboard+-+shipped+end+to+end;94%25+accurate+fingerprint+ML+%40+Rela+Hospitals;30%2B+forklifts+monitored+%40+Ashok+Leyland;2+patents+filed+-+10%2B+national+hackathon+wins" alt="Rotating highlight reel" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
+    alt="Typing SVG"
+  />
 </picture>
 
 <br/><br/>
