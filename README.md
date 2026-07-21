@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/INTERNSHIPS-3-58A6FF?style=for-the-badge&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/HACKATHON%20WINS-10%2B-58A6FF?style=for-the-badge&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/PATENTS%20FILED-2-58A6FF?style=for-the-badge&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/LIVE%20IN%20PRODUCTION-2-58A6FF?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/INTERNSHIPS-3-1F6FEB?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HACKATHON%20WINS-10%2B-2EA043?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PATENTS%20FILED-2-E3B341?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LIVE%20IN%20PRODUCTION-2-F85149?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
