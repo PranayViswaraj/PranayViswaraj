@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%2B%20IoT%20%2B%20Full-Stack%20Engineer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=8b949e" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=AI%20%2B%20IoT%20%2B%20Full-Stack%20Engineer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=57606a" alt="Pranay V — AI + IoT + Full-Stack Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=8b949e" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=57606a" alt="Pranay V — Hardware + Software Developer" />
 </picture>
 
 <picture>
@@ -39,12 +39,12 @@
 
 ## About
 
-Final-year B.E. Electronics & Communication Engineering (VLSI Honours) student at Sri Venkateswara College of Engineering. I build AI and IoT systems end-to-end — from sensor hardware through on-device ML inference to production dashboards — and have shipped two of them into live use at industry partners.
+Final-year B.E. Electronics & Communication Engineering (VLSI Honours) student at Sri Venkateswara College of Engineering. I work across the full stack of a product — hardware, firmware, on-device ML, and the software that sits on top — and have shipped two such systems into live use at industry partners.
 
 ```python
 class PranayV:
     def __init__(self):
-        self.role      = "AI / IoT / Full-Stack Engineer"
+        self.role      = "Hardware + Software Developer"
         self.base      = "Chennai, India"
         self.studying  = "B.E. ECE — VLSI Honours @ SVCE (CGPA 9.06/10)"
 
