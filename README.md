@@ -1,55 +1,327 @@
----
-name: frontend-design
-description: Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.
-license: Complete terms in LICENSE.txt
----
+<div align="center">
 
-# Frontend Design
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=8b949e" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=57606a" alt="Pranay V — Hardware + Software Developer" />
+</picture>
 
-Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you can justify.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Sotware+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
+    alt="Typing SVG"
+  />
+</picture>
 
-## Ground it in the subject
+<br/><br/>
 
-If the brief does not pin down what the product or subject is, pin it yourself before designing: name one concrete subject, its audience, and the page's single job, and state your choice. If there's any information in your memory about the human's preferences, context about what they're building, or designs you've made before – use that as a hint. The subject's own world, its materials, instruments, artifacts, and vernacular, is where distinctive choices come from. Build with the brief's real content and subject matter throughout.
+<img src="https://img.shields.io/badge/INTERNSHIPS-3-1F6FEB?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HACKATHON%20WINS-10%2B-2EA043?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PATENTS%20FILED-2-E3B341?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LIVE%20IN%20PRODUCTION-2-F85149?style=for-the-badge&labelColor=000000"/>
 
-## Design principles
+<br/><br/>
 
-For web designs, the hero is a thesis. Open with the most characteristic thing in the subject's world, in whatever form makes sense for it: a headline, an image, an animation, a live demo, an interactive moment. Be deliberate with your choice: a big number with a small label, supporting stats, and a gradient accent is the template answer, only use if that's truly the best option.
+<img src="https://komarev.com/ghpvc/?username=PranayViswaraj&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=161b22"/>
 
-Typography carries the personality of the page. Pair the display and body faces deliberately, not the same families you would reach for on any other project, and set a clear type scale with intentional weights, widths, and spacing. Make the type treatment itself a memorable part of the design, not a neutral delivery vehicle for the content.
+<br/><br/>
 
-Structure is information. Structural devices, numbering, eyebrows, dividers, labels, should encode something true about the content, not decorate it. Many generic designs use numbered markers (01 / 02 / 03), but that's only appropriate if the content actually is a sequence - like a real process or a typed timeline where order carries information the reader needs. Question if choices like numbered markers actually make sense before incorporating them.
+<p>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-16324a?style=for-the-badge"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-16324a?style=for-the-badge"/></a>
+<a href="#work-experience"><img src="https://img.shields.io/badge/EXPERIENCE-16324a?style=for-the-badge"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-16324a?style=for-the-badge"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-16324a?style=for-the-badge"/></a>
+<a href="#github-stats"><img src="https://img.shields.io/badge/GITHUB%20STATS-16324a?style=for-the-badge"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-16324a?style=for-the-badge"/></a>
+</p>
 
-Leverage motion deliberately. Think about where and if animation can serve the subject: a page-load sequence, a scroll-triggered reveal, hover micro-interactions, ambient atmosphere. An orchestrated moment usually lands harder than scattered effects; choose what the direction calls for. However, sometimes less is more, and extra animation contributes to the feeling that the design is AI-generated.
+</div>
 
-Match complexity to the vision. Maximalist directions need elaborate execution; minimal directions need precision in spacing, type, and detail. Elegance is executing the chosen vision well.
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
-Consider written content carefully. Often a design brief may not contain real content, and it's up to you to come up with copy. Copy can make a design feel as templated as the design itself. See the below section on writing for more guidance.
+<p align="center"><img src="https://img.shields.io/badge/🧠-58A6FF?style=for-the-badge"/></p>
 
-## Process: brainstorm, explore, plan, critique, build, critique again
+## About
 
-For calibration: AI-generated design right now clusters around three looks: (1) a warm cream background (near #F4F1EA) with a high-contrast serif display and a terracotta or warm-clay accent (often near #D97757 — Anthropic's own Claude-interaction accent, so on a user's brief it reads as a tell); (2) a near-black background with a single bright acid-green or vermilion accent; (3) a broadsheet-style layout with hairline rules, zero border-radius, and dense newspaper-like columns. All three are legitimate for some briefs, but they are defaults rather than choices, and they appear regardless of subject. Where the brief pins down a visual direction, follow it exactly — the brief's own words always win, including when it asks for one of these looks. Where it leaves an axis free, don't spend that freedom on one of these defaults. Just like a human designer who's hired, there's often a careful balance between doing what you're good at and taking each project as a chance to experiment and learn.
+Final-year B.E. Electronics & Communication Engineering (VLSI Honours) student at Sri Venkateswara College of Engineering. I work across the full stack of a product — hardware, firmware, on-device ML, and the software that sits on top — and have shipped two such systems into live use at industry partners.
 
-Work in two passes. First, brainstorm a short design plan based on the human's design brief: create a compact token system with color, type, layout, and signature. Color: describe the palette as 4–6 named hex values. Type: the typefaces for 2+ roles (a characterful display face that's used with restraint, a complementary body face, and a utility face for captions or data if needed). Layout: a layout concept, using one-sentence prose descriptions and ASCII wireframes to ideate and compare. Signature: the single unique element this page will be remembered by that embodies the brief in an appropriate way.
+```python
+class PranayV:
+    def __init__(self):
+        self.role      = "Hardware + Software Developer"
+        self.base      = "Chennai, India"
+        self.studying  = "B.E. ECE — VLSI Honours @ SVCE (CGPA 9.06/10)"
 
-Then review that plan against the brief before building: if any part of it reads like the generic default you would produce for any similar page (work through a similar prompt to see if you arrive somewhere similar) rather than a choice made for this specific brief — revise that part, say what you changed and why. Only after you've confirmed the relative uniqueness of your design plan should you start to write the code, following the revised plan exactly and deriving every color and type decision from it.
+        self.shipped = [
+            "Fingerprint-based blood-group classifier — 94% acc, live @ Rela Hospitals",
+            "Fleet-wide forklift monitoring — 30+ units @ Ashok Leyland",
+            "Offline safety wearable — 3 on-device ML models, 96% acc, zero cloud",
+        ]
 
-When writing the code, be careful of structuring your CSS selector specificities. It's easy to generate CSS classes that cancel each other out (especially with a type-based selector like .section and a element-based selector like .cta). This can happen often with paddings/margins between sections.
+        self.currently_exploring = ["Agentic AI", "LLM Orchestration", "RTL + ML co-design"]
 
-Try to do a lot of this planning and iteration in your thinking, and only show ideas to the user when you have higher confidence it'll delight them.
+    def philosophy(self) -> str:
+        return "If it doesn't run end-to-end — sensor to cloud — it's not done yet."
 
-## Restraint and self-critique
 
-Spend your boldness in one place. Let the signature element be the one memorable thing, keep everything around it quiet and disciplined, and cut any decoration that does not serve the brief. Not taking a risk can be a risk itself! Build to a quality floor without announcing it: responsive down to mobile, visible keyboard focus, reduced motion respected. Critique your own work as you build, taking screenshots if your environment supports it – a picture is worth 1000 tokens. Consider Chanel's advice: before leaving the house, take a look in the mirror and remove one accessory. Human creators have memory and always try to do something new, so if you have a space to quickly jot down notes about what you've tried, it can help you in future passes.
+me = PranayV()
+print(me.philosophy())
+```
 
-## More on writing in design
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
 
-Words appear in a design for one reason: to make it easier to understand, and therefore easier to use. They are design material, not decoration. Bring the same intentionality to copy that you would bring to spacing and color. Before writing anything, ask what the design needs to say, and how it can best be said to help the person navigate the experience.
+<p align="center"><img src="https://img.shields.io/badge/🛠️-3FB950?style=for-the-badge"/></p>
 
-Write from the end user's side of the screen. Name things by what people control and recognize, never by how the system is built. A person manages notifications, not webhook config. Describe what something does in plain terms rather than selling it. Being specific is always better than being clever.
+## Tech Stack
 
-Use active voice as default. A control should say exactly what happens when it's used: "Save changes," not "Submit." An action keeps the same name through the whole flow, so the button that says "Publish" produces a toast that says "Published." The vocabulary of an interface is the signposting for someone navigating the product. Cohesion and consistency are how people learn their way around.
+<div align="center">
 
-Treat failure and emptiness as moments for direction, not mood. Explain what went wrong and how to fix it, in the interface's voice rather than a person's. Errors don't apologize, and they are never vague about what happened. An empty screen is an invitation to act.
+<br/>
 
-Keep the register conversational and tuned: plain verbs, sentence case, no filler, with tone matched to the brand and the audience. Let each element do exactly one job. A label labels, an example demonstrates, and nothing quietly does double duty.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=light&perline=10" alt="Tech stack icons" />
+</picture>
+
+<br/><br/>
+
+</div>
+
+**🟢 Embedded & Edge AI**
+<img src="https://img.shields.io/badge/ESP32-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/FPGA%20(Altera)-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Verilog%20HDL-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/LoRa%20%2F%20GSM%20%2F%20GPS-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MQTT-3FB950?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-3FB950?style=flat-square&labelColor=161b22"/>
+
+<br/>
+
+**🟣 AI / ML**
+<img src="https://img.shields.io/badge/RAG-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/TinyML-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/CNN%20%2F%20LSTM-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Random%20Forest-A371F7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/CatBoost-A371F7?style=flat-square&labelColor=161b22"/>
+
+<br/>
+
+**🔴 Security & Tooling**
+<img src="https://img.shields.io/badge/AES--256-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Quartus%20Prime-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ModelSim-F85149?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Cadence%20Genus-F85149?style=flat-square&labelColor=161b22"/>
+
+<br/>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/📊-A371F7?style=for-the-badge"/></p>
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/PranayViswaraj">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PranayViswaraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&border_radius=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranayViswaraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=57606a&text_color=24292f&border_color=d0d7de&border_radius=6" alt="GitHub Stats" />
+</picture>
+</a>
+<a href="https://github.com/PranayViswaraj">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayViswaraj&layout=compact&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8&border_radius=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayViswaraj&layout=compact&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=8&border_radius=6" alt="Top Languages" />
+</picture>
+</a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PranayViswaraj&hide_border=false&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D&border_radius=6" />
+  <img src="https://streak-stats.demolab.com?user=PranayViswaraj&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=D0D7DE&border_radius=6" alt="GitHub Streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PranayViswaraj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=false&border_color=30363d" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranayViswaraj&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=false&border_color=d0d7de" alt="Contribution Activity Graph" />
+</picture>
+
+</div>
+
+<!--
+  SIGNATURE ELEMENT — 3D contribution calendar. One-time setup (~2 min):
+  1. Add .github/workflows/profile-3d.yml to this repo (workflow given in chat).
+  2. Settings -> Actions -> General -> Workflow permissions -> "Read and write permissions".
+  3. Actions tab -> "GitHub-Profile-3D-Contrib" -> Run workflow (first run only; runs daily after).
+  Until step 3 completes once, the image below renders as broken — that's expected until then.
+-->
+
+<p align="center"><img src="https://img.shields.io/badge/🧊-2DD4BF?style=for-the-badge"/></p>
+
+### 3D Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
+<sub>Regenerated daily by a GitHub Action — one-time setup required, see comment in source</sub>
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/🏆-D29922?style=for-the-badge"/></p>
+
+## Trophy Wall
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PranayViswaraj&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/💼-2DD4BF?style=for-the-badge"/></p>
+
+## Work Experience
+
+<details open>
+<summary><b>IoT & Software Engineering Intern · Rela Hospitals, Chennai</b> — Feb 2026 – Apr 2026</summary>
+<br/>
+
+> `Embedded ML` `ESP32` `Fingerprint Sensing` `Clinical Dashboards`
+
+- Built the hospital's first non-invasive blood group identification system — fingerprint pattern analysis feeding a custom on-device ML pipeline, removing blood draws for **500+ patients/day**.
+- Owned the full pipeline — **sensor → ESP32 → ML inference → clinical dashboard** — hitting **sub-5s** identification at **94% accuracy**.
+
+</details>
+
+<details>
+<summary><b>Industrial IoT Project Intern · Ashok Leyland, Chennai</b> — Nov 2025 – Apr 2026</summary>
+<br/>
+
+> `ESP32` `MQTT` `Predictive Maintenance` `Fleet Analytics`
+
+- Shipped a fleet-wide forklift monitoring platform — battery SoH, charge cycles, live GPS — across **30+ forklifts**, cutting manual inspection effort **60%**.
+- Built the pipeline **ESP32 nodes → MQTT broker → analytics backend → ops dashboard**, dropping unplanned downtime **40%**.
+- Turned raw battery telemetry into degradation analytics with proactive alerts, extending average battery life **20%**.
+
+</details>
+
+<details>
+<summary><b>RAG & Application Development Intern · Playful Python, Chennai</b> — Dec 2024 – Jan 2025</summary>
+<br/>
+
+> `RAG` `Vector Embeddings` `Semantic Retrieval`
+
+- Built a production RAG app over **1,000+ documents** using chunk-aware indexing and query rewriting.
+- Beat keyword search on every contextual-accuracy benchmark, lifting retrieval precision **35%**.
+
+</details>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/🚀-F778BA?style=for-the-badge"/></p>
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Offline Women Safety Wearable**](https://github.com/PranayViswaraj) | TinyML • CNN • LSTM • ESP32 • LoRa/GSM/GPS • React • Firebase • AES-256 | 3 on-device AI models running in parallel, **96% detection accuracy**, zero cloud dependency, LoRa mesh fallback when cellular is jammed |
+| [**AgroSmart — Precision Agriculture**](https://github.com/PranayViswaraj) | React • Flask • MongoDB • ESP32 • Random Forest • Gradient Boosting • CatBoost • MQTT | Autonomous irrigation control, **92% yield-prediction accuracy**, **30% water savings**, full ESP32 → MQTT → Flask → MongoDB → React pipeline |
+| [**Hand Gesture → Speech (FPGA)**](https://github.com/PranayViswaraj) | Verilog HDL • Quartus Prime • Cadence Genus • ModelSim • Altera FPGA | Real-time gesture-to-speech RTL for the speech-impaired — **200 MHz**, **<2ns** critical path, **<25mW** power draw |
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=light" alt="Built with" />
+</picture>
+
+<sub>Built with</sub>
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/🏅-F85149?style=for-the-badge"/></p>
+
+## Achievements
+
+<div align="center">
+
+| Achievement | Result | Project |
+|---|---|---|
+| Smart India Hackathon 2025 | Finalist — MIC & AICTE, National Level | National-level problem statement, solved as a full-stack AI/IoT prototype |
+| HackInfinity 2025 | Winner — SSN College of Engineering, Chennai | Rapid-build AI/IoT prototype delivered under hackathon time constraints |
+| K-Hacks 2025 | Special Track Winner — CEG, Anna University, Chennai | Applied AI/embedded-systems track submission |
+| HackElite 2024 | Winner — ECE Dept., SVCE | Embedded/IoT hardware-software prototype |
+| **Hackerrupt '26** | **Runner-up** | **AI-Powered Offline Women Safety Wearable** — health & safety band |
+| EliteCom | Winner | Product/research showcase drawn from patent-filed work |
+| IETE Convention | Finalist — National-level research presentation | Non-Invasive Blood Group Identification via Fingerprint Pattern Analysis |
+| Startup Surge | Winner | Startup-style pitch built around AgroSmart, the precision-agriculture platform |
+| Indian Patent Office | 2 patents filed | Blood Group ID System & AgroSmart |
+| National Hackathons | 10+ entries | Consistent production-ready delivery across varied problem statements |
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<p align="center"><img src="https://img.shields.io/badge/🎓-58A6FF?style=for-the-badge"/></p>
+
+## Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.E. Electronics & Communication Engineering — VLSI Honours | Sri Venkateswara College of Engineering, Sriperumbudur | 2023 – 2027 | 9.06 / 10 |
+| Higher Secondary — Computer Science | Sri Chaitanya Techno School, Perumbakkam | 2021 – 2023 | — |
+
+</div>
+
+<p align="center"><img src="https://img.shields.io/badge/📚-3FB950?style=for-the-badge"/></p>
+
+## Currently Learning
+
+<div align="center">
+
+| Domain | Program |
+|---|---|
+| Agentic AI | Oracle Agentic AI Foundations |
+| GenAI / LLMs | RAG, Prompt Engineering & AI Agents — Yuva AI, MEITY |
+| Embedded IoT | Application-Driven Electronics & Embedded Tech — IITM Pravartak |
+| Embedded ML | RAIC: Embedded Systems & Machine Learning — ECE, SVCE |
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📫-A371F7?style=for-the-badge"/>
+
+### Connect
+
+<a href="mailto:vpranay2005@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=white"/></a>
+<!-- TODO: swap in your real LinkedIn URL — this is still the placeholder from the original draft -->
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&labelColor=161b22&logo=linkedin&logoColor=white"/></a>
+<a href="https://pranayv-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&labelColor=161b22&logo=netlify&logoColor=white"/></a>
+<a href="https://github.com/PranayViswaraj"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=120&section=footer&animation=twinkling" alt="" />
+</picture>
+
+</div>
