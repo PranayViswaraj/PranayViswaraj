@@ -1,327 +1,348 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=8b949e" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=210&section=header&text=Pranay%20V&fontSize=44&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=Hardware%20%2B%20Software%20Developer%20%E2%80%94%20VLSI%20Honours%2C%20SVCE&descAlignY=58&descSize=16&descColor=57606a" alt="Pranay V — Hardware + Software Developer" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Sotware+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=950&height=40&lines=Building+AI-powered+Products+from+Idea+to+Deployment;Embedded+AI+%7C+Machine+Learning+%7C+Full-Stack+Development;ESP32+%7C+TinyML+%7C+React+%7C+FastAPI+%7C+MQTT;Researcher+%7C+Patent+Author+%7C+Hackathon+Winner;Always+Learning.+Always+Building."
-    alt="Typing SVG"
-  />
-</picture>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/INTERNSHIPS-3-1F6FEB?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/HACKATHON%20WINS-10%2B-2EA043?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/PATENTS%20FILED-2-E3B341?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LIVE%20IN%20PRODUCTION-2-F85149?style=for-the-badge&labelColor=000000"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PranayViswaraj&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=161b22"/>
-
-<br/><br/>
-
-<p>
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-16324a?style=for-the-badge"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-16324a?style=for-the-badge"/></a>
-<a href="#work-experience"><img src="https://img.shields.io/badge/EXPERIENCE-16324a?style=for-the-badge"/></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-16324a?style=for-the-badge"/></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-16324a?style=for-the-badge"/></a>
-<a href="#github-stats"><img src="https://img.shields.io/badge/GITHUB%20STATS-16324a?style=for-the-badge"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-16324a?style=for-the-badge"/></a>
-</p>
-
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🧠-58A6FF?style=for-the-badge"/></p>
-
-## About
-
-Final-year B.E. Electronics & Communication Engineering (VLSI Honours) student at Sri Venkateswara College of Engineering. I work across the full stack of a product — hardware, firmware, on-device ML, and the software that sits on top — and have shipped two such systems into live use at industry partners.
-
-```python
-class PranayV:
-    def __init__(self):
-        self.role      = "Hardware + Software Developer"
-        self.base      = "Chennai, India"
-        self.studying  = "B.E. ECE — VLSI Honours @ SVCE (CGPA 9.06/10)"
-
-        self.shipped = [
-            "Fingerprint-based blood-group classifier — 94% acc, live @ Rela Hospitals",
-            "Fleet-wide forklift monitoring — 30+ units @ Ashok Leyland",
-            "Offline safety wearable — 3 on-device ML models, 96% acc, zero cloud",
-        ]
-
-        self.currently_exploring = ["Agentic AI", "LLM Orchestration", "RTL + ML co-design"]
-
-    def philosophy(self) -> str:
-        return "If it doesn't run end-to-end — sensor to cloud — it's not done yet."
-
-
-me = PranayV()
-print(me.philosophy())
-```
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🛠️-3FB950?style=for-the-badge"/></p>
-
-## Tech Stack
-
-<div align="center">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,html,css,react,nodejs,flask,fastapi,mongodb,firebase,tensorflow,opencv,numpy,git,github,vscode,linux,arduino&theme=light&perline=10" alt="Tech stack icons" />
-</picture>
-
-<br/><br/>
-
-</div>
-
-**🟢 Embedded & Edge AI**
-<img src="https://img.shields.io/badge/ESP32-3FB950?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/FPGA%20(Altera)-3FB950?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Verilog%20HDL-3FB950?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/LoRa%20%2F%20GSM%20%2F%20GPS-3FB950?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MQTT-3FB950?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-3FB950?style=flat-square&labelColor=161b22"/>
-
-<br/>
-
-**🟣 AI / ML**
-<img src="https://img.shields.io/badge/RAG-A371F7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/TinyML-A371F7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/CNN%20%2F%20LSTM-A371F7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Random%20Forest-A371F7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/CatBoost-A371F7?style=flat-square&labelColor=161b22"/>
-
-<br/>
-
-**🔴 Security & Tooling**
-<img src="https://img.shields.io/badge/AES--256-F85149?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Quartus%20Prime-F85149?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ModelSim-F85149?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Cadence%20Genus-F85149?style=flat-square&labelColor=161b22"/>
-
-<br/>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/📊-A371F7?style=for-the-badge"/></p>
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/PranayViswaraj">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PranayViswaraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&border_radius=6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranayViswaraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=57606a&text_color=24292f&border_color=d0d7de&border_radius=6" alt="GitHub Stats" />
-</picture>
-</a>
-<a href="https://github.com/PranayViswaraj">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayViswaraj&layout=compact&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8&border_radius=6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayViswaraj&layout=compact&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=8&border_radius=6" alt="Top Languages" />
-</picture>
-</a>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PranayViswaraj&hide_border=false&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D&border_radius=6" />
-  <img src="https://streak-stats.demolab.com?user=PranayViswaraj&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=D0D7DE&border_radius=6" alt="GitHub Streak" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PranayViswaraj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=false&border_color=30363d" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranayViswaraj&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=false&border_color=d0d7de" alt="Contribution Activity Graph" />
-</picture>
-
-</div>
-
-<!--
-  SIGNATURE ELEMENT — 3D contribution calendar. One-time setup (~2 min):
-  1. Add .github/workflows/profile-3d.yml to this repo (workflow given in chat).
-  2. Settings -> Actions -> General -> Workflow permissions -> "Read and write permissions".
-  3. Actions tab -> "GitHub-Profile-3D-Contrib" -> Run workflow (first run only; runs daily after).
-  Until step 3 completes once, the image below renders as broken — that's expected until then.
--->
-
-<p align="center"><img src="https://img.shields.io/badge/🧊-2DD4BF?style=for-the-badge"/></p>
-
-### 3D Contribution Calendar
-
-<div align="center">
-
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-
-<sub>Regenerated daily by a GitHub Action — one-time setup required, see comment in source</sub>
-
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🏆-D29922?style=for-the-badge"/></p>
-
-## Trophy Wall
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PranayViswaraj&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/💼-2DD4BF?style=for-the-badge"/></p>
-
-## Work Experience
-
-<details open>
-<summary><b>IoT & Software Engineering Intern · Rela Hospitals, Chennai</b> — Feb 2026 – Apr 2026</summary>
-<br/>
-
-> `Embedded ML` `ESP32` `Fingerprint Sensing` `Clinical Dashboards`
-
-- Built the hospital's first non-invasive blood group identification system — fingerprint pattern analysis feeding a custom on-device ML pipeline, removing blood draws for **500+ patients/day**.
-- Owned the full pipeline — **sensor → ESP32 → ML inference → clinical dashboard** — hitting **sub-5s** identification at **94% accuracy**.
-
-</details>
-
-<details>
-<summary><b>Industrial IoT Project Intern · Ashok Leyland, Chennai</b> — Nov 2025 – Apr 2026</summary>
-<br/>
-
-> `ESP32` `MQTT` `Predictive Maintenance` `Fleet Analytics`
-
-- Shipped a fleet-wide forklift monitoring platform — battery SoH, charge cycles, live GPS — across **30+ forklifts**, cutting manual inspection effort **60%**.
-- Built the pipeline **ESP32 nodes → MQTT broker → analytics backend → ops dashboard**, dropping unplanned downtime **40%**.
-- Turned raw battery telemetry into degradation analytics with proactive alerts, extending average battery life **20%**.
-
-</details>
-
-<details>
-<summary><b>RAG & Application Development Intern · Playful Python, Chennai</b> — Dec 2024 – Jan 2025</summary>
-<br/>
-
-> `RAG` `Vector Embeddings` `Semantic Retrieval`
-
-- Built a production RAG app over **1,000+ documents** using chunk-aware indexing and query rewriting.
-- Beat keyword search on every contextual-accuracy benchmark, lifting retrieval precision **35%**.
-
-</details>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🚀-F778BA?style=for-the-badge"/></p>
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| [**Offline Women Safety Wearable**](https://github.com/PranayViswaraj) | TinyML • CNN • LSTM • ESP32 • LoRa/GSM/GPS • React • Firebase • AES-256 | 3 on-device AI models running in parallel, **96% detection accuracy**, zero cloud dependency, LoRa mesh fallback when cellular is jammed |
-| [**AgroSmart — Precision Agriculture**](https://github.com/PranayViswaraj) | React • Flask • MongoDB • ESP32 • Random Forest • Gradient Boosting • CatBoost • MQTT | Autonomous irrigation control, **92% yield-prediction accuracy**, **30% water savings**, full ESP32 → MQTT → Flask → MongoDB → React pipeline |
-| [**Hand Gesture → Speech (FPGA)**](https://github.com/PranayViswaraj) | Verilog HDL • Quartus Prime • Cadence Genus • ModelSim • Altera FPGA | Real-time gesture-to-speech RTL for the speech-impaired — **200 MHz**, **<2ns** critical path, **<25mW** power draw |
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,flask,mongodb,firebase,arduino&theme=light" alt="Built with" />
-</picture>
-
-<sub>Built with</sub>
-
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🏅-F85149?style=for-the-badge"/></p>
-
-## Achievements
-
-<div align="center">
-
-| Achievement | Result | Project |
-|---|---|---|
-| Smart India Hackathon 2025 | Finalist — MIC & AICTE, National Level | National-level problem statement, solved as a full-stack AI/IoT prototype |
-| HackInfinity 2025 | Winner — SSN College of Engineering, Chennai | Rapid-build AI/IoT prototype delivered under hackathon time constraints |
-| K-Hacks 2025 | Special Track Winner — CEG, Anna University, Chennai | Applied AI/embedded-systems track submission |
-| HackElite 2024 | Winner — ECE Dept., SVCE | Embedded/IoT hardware-software prototype |
-| **Hackerrupt '26** | **Runner-up** | **AI-Powered Offline Women Safety Wearable** — health & safety band |
-| EliteCom | Winner | Product/research showcase drawn from patent-filed work |
-| IETE Convention | Finalist — National-level research presentation | Non-Invasive Blood Group Identification via Fingerprint Pattern Analysis |
-| Startup Surge | Winner | Startup-style pitch built around AgroSmart, the precision-agriculture platform |
-| Indian Patent Office | 2 patents filed | Blood Group ID System & AgroSmart |
-| National Hackathons | 10+ entries | Consistent production-ready delivery across varied problem statements |
-
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<p align="center"><img src="https://img.shields.io/badge/🎓-58A6FF?style=for-the-badge"/></p>
-
-## Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Electronics & Communication Engineering — VLSI Honours | Sri Venkateswara College of Engineering, Sriperumbudur | 2023 – 2027 | 9.06 / 10 |
-| Higher Secondary — Computer Science | Sri Chaitanya Techno School, Perumbakkam | 2021 – 2023 | — |
-
-</div>
-
-<p align="center"><img src="https://img.shields.io/badge/📚-3FB950?style=for-the-badge"/></p>
-
-## Currently Learning
-
-<div align="center">
-
-| Domain | Program |
-|---|---|
-| Agentic AI | Oracle Agentic AI Foundations |
-| GenAI / LLMs | RAG, Prompt Engineering & AI Agents — Yuva AI, MEITY |
-| Embedded IoT | Application-Driven Electronics & Embedded Tech — IITM Pravartak |
-| Embedded ML | RAIC: Embedded Systems & Machine Learning — ECE, SVCE |
-
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b3a5c,100:0d1117&height=4&animation=twinkling" alt=""/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/📫-A371F7?style=for-the-badge"/>
-
-### Connect
-
-<a href="mailto:vpranay2005@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=white"/></a>
-<!-- TODO: swap in your real LinkedIn URL — this is still the placeholder from the original draft -->
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&labelColor=161b22&logo=linkedin&logoColor=white"/></a>
-<a href="https://pranayv-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&labelColor=161b22&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/PranayViswaraj"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=120&section=footer&animation=twinkling" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe9fb,100:ffffff&height=120&section=footer&animation=twinkling" alt="" />
-</picture>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pranay V | Hardware + Software Developer</title>
+    
+    <!-- Fonts: Inter for UI, JetBrains Mono for Data -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg-dark: #0d1117;
+            --bg-card: #161b22;
+            --bg-card-hover: #1c2128;
+            --border-color: #30363d;
+            --text-main: #c9d1d9;
+            --text-muted: #8b949e;
+            --accent-blue: #58a6ff;
+            --accent-green: #3fb950;
+            --accent-purple: #a371f7;
+            --accent-red: #f85149;
+            --accent-gold: #d29922;
+            --glow-blue: 0 0 20px rgba(88, 166, 255, 0.15);
+            --font-ui: 'Inter', sans-serif;
+            --font-code: 'JetBrains Mono', monospace;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: var(--font-ui);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* --- Layout & Container --- */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        section {
+            margin-bottom: 80px;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeUp 0.8s forwards;
+        }
+
+        @keyframes fadeUp {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* --- Typography --- */
+        h1, h2, h3 {
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        h1 { font-size: 3rem; letter-spacing: -1px; margin-bottom: 0.5rem; }
+        h2 { font-size: 1.8rem; margin-bottom: 1.5rem; border-left: 4px solid var(--accent-blue); padding-left: 15px; }
+        h3 { font-size: 1.2rem; margin-bottom: 0.5rem; color: var(--accent-blue); }
+        
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .tagline {
+            font-family: var(--font-code);
+            color: var(--accent-green);
+            font-size: 0.9rem;
+            background: rgba(63, 185, 80, 0.1);
+            padding: 4px 10px;
+            border-radius: 4px;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        /* --- Header --- */
+        header {
+            text-align: center;
+            padding: 60px 0;
+            background: radial-gradient(circle at 50% 50%, rgba(88, 166, 255, 0.08), transparent 70%);
+        }
+
+        .avatar-frame {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 3px solid var(--accent-blue);
+            padding: 4px;
+            margin: 0 auto 20px;
+            box-shadow: var(--glow-blue);
+        }
+
+        .avatar {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background-color: var(--bg-card);
+            background-image: url('https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324a,100:0d1117&height=240&section=header&text=PV&fontSize=60&fontColor=ffffff'); /* Placeholder */
+            background-size: cover;
+        }
+
+        /* --- Stats Bar --- */
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 30px 0;
+        }
+
+        .stat-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-family: var(--font-code);
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: transform 0.2s;
+        }
+
+        .stat-item:hover { transform: translateY(-3px); border-color: var(--accent-blue); }
+        .stat-label { color: var(--text-muted); }
+        .stat-value { font-weight: 700; color: #fff; }
+
+        /* --- Grid Layouts --- */
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+        .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; }
+        .grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+
+        @media (max-width: 768px) {
+            .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+            h1 { font-size: 2.2rem; }
+        }
+
+        /* --- Cards (General) --- */
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--accent-blue);
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+            transform: translateY(-5px);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .card-title { font-weight: 600; font-size: 1.1rem; color: #fff; }
+        .card-sub { font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-code); }
+
+        /* --- Tech Stack Pills --- */
+        .tech-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(88, 166, 255, 0.1);
+            color: var(--accent-blue);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin: 0 5px 8px 0;
+            border: 1px solid rgba(88, 166, 255, 0.2);
+        }
+        
+        .tech-pill.green { background: rgba(63, 185, 80, 0.1); color: var(--accent-green); border-color: rgba(63, 185, 80, 0.2); }
+        .tech-pill.purple { background: rgba(163, 113, 247, 0.1); color: var(--accent-purple); border-color: rgba(163, 113, 247, 0.2); }
+        .tech-pill.red { background: rgba(248, 81, 73, 0.1); color: var(--accent-red); border-color: rgba(248, 81, 73, 0.2); }
+
+        /* --- Dashboard Specifics (The "Sensor" Look) --- */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .sensor-card {
+            background: linear-gradient(145deg, #161b22, #0d1117);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .sensor-label { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px; }
+        .sensor-value { font-family: var(--font-code); font-size: 1.8rem; font-weight: 700; color: #fff; }
+        .sensor-unit { font-size: 0.9rem; color: var(--text-muted); }
+        .sensor-status { 
+            font-size: 0.7rem; 
+            padding: 2px 8px; 
+            border-radius: 10px; 
+            margin-top: 8px; 
+            display: inline-block;
+            font-weight: 600;
+        }
+        .status-ok { background: rgba(63, 185, 80, 0.2); color: var(--accent-green); }
+        .status-warn { background: rgba(210, 153, 34, 0.2); color: var(--accent-gold); }
+        .status-crit { background: rgba(248, 81, 73, 0.2); color: var(--accent-red); }
+
+        /* --- Experience Timeline --- */
+        .timeline-item {
+            border-left: 2px solid var(--border-color);
+            padding-left: 25px;
+            padding-bottom: 30px;
+            position: relative;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -6px;
+            top: 0;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--accent-blue);
+            box-shadow: 0 0 10px var(--accent-blue);
+        }
+        .timeline-date { font-family: var(--font-code); font-size: 0.85rem; color: var(--accent-blue); margin-bottom: 5px; }
+        .timeline-role { font-size: 1.1rem; font-weight: 600; color: #fff; margin-bottom: 5px; }
+        .timeline-company { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 10px; }
+
+        /* --- Code Block --- */
+        .code-block {
+            background: #0d1117;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            font-family: var(--font-code);
+            font-size: 0.9rem;
+            color: #c9d1d9;
+            position: relative;
+        }
+        .code-block::before {
+            content: '● ● ●';
+            position: absolute;
+            top: 10px;
+            left: 15px;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            letter-spacing: 2px;
+        }
+        .keyword { color: #ff7b72; }
+        .string { color: #a5d6ff; }
+        .function { color: #d2a8ff; }
+        .comment { color: #8b949e; font-style: italic; }
+
+        /* --- Buttons & Links --- */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: var(--accent-blue);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: background 0.2s;
+        }
+        .btn:hover { background: #388bfd; }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-muted);
+            transition: all 0.2s;
+        }
+        .social-icon:hover {
+            color: #fff;
+            border-color: var(--accent-blue);
+            background: var(--accent-blue);
+            transform: translateY(-3px);
+        }
+
+        /* --- Footer --- */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <!-- HEADER -->
+        <header>
+            <div class="avatar-frame">
+                <div class="avatar"></div>
+            </div>
+            <h1>Pranay V</h1>
+            <div class="subtitle">Hardware + Software Developer — VLSI Honours, SVCE</div>
+            <div class="tagline">Building AI-powered Products from Idea to Deployment</div>
+            
+            <div class="stats-bar">
+                <div class="stat-item"><span class="stat-label">Internships</span> <span class="stat-value">3</span></div>
+                <div class="stat-item"><span class="stat-label">Hackathon Wins</span> <span class="stat-value">10+</span></div>
+                <div class="stat-item"><span class="stat-label">Patents Filed</span> <span class="stat-value">2</span></div>
+                <div class="stat-item"><span class="stat-label">Live in Prod</span> <span class="stat-value">2</span></div>
+            </div>
+
+            <div class="social-links">
+                <a href="#" class="social-icon" title="GitHub">GH</a>
+                <a href="#" class="social-icon" title="LinkedIn">IN</a>
+                <a href="#" class="social-icon" title="Email">✉</a
