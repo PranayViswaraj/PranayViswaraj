@@ -102,40 +102,56 @@ print(me.motto())
 <!-- ═══════════════════════════════ WORK EXPERIENCE ═══════════════════════════════ -->
 ### 💼 Work Experience
 
-<details>
-<summary><b>IoT and Software Engineering Intern · Rela Hospitals, Chennai</b> — Feb 2026 – Apr 2026</summary>
-<br>
+<table>
+<tr>
+<th align="left" width="26%">Role · Company</th>
+<th align="left" width="14%">Duration</th>
+<th align="left">Description</th>
+</tr>
 
-> `ESP32` `Embedded ML` `Sensor Fusion` `Clinical Dashboards`
+<tr>
+<td valign="top">
+<b>IoT and Software Engineering Intern</b><br/>
+Rela Hospitals, Chennai
+</td>
+<td valign="top">Feb 2026 – Apr 2026</td>
+<td valign="top">
 
-- Developed a **non-invasive blood group identification system** — the first of its kind at the hospital — using fingerprint pattern analysis with a custom ML inference pipeline on embedded IoT hardware, removing the need for blood sampling for **500+ daily patients**.
-- Architected the end-to-end data acquisition pipeline: sensor → ESP32 → ML inference → clinical dashboard.
-- Achieved identification latency **under 5 seconds** with **94% classification accuracy**.
+- Developed a **non-invasive blood group identification system** — the first of its kind at the hospital — using fingerprint pattern analysis with a custom ML inference pipeline on embedded IoT hardware, eliminating the need for blood sampling for **500+ daily patients**.
+- Architected the end-to-end data acquisition pipeline: sensor → ESP32 → ML inference → clinical dashboard, achieving identification latency **under 5 seconds** with **94% classification accuracy**.
 
-</details>
+</td>
+</tr>
 
-<details>
-<summary><b>Industrial IoT Project Intern · Ashok Leyland, Chennai</b> — Nov 2025 – Apr 2026</summary>
-<br>
+<tr>
+<td valign="top">
+<b>Industrial IoT Project Intern</b><br/>
+Ashok Leyland, Chennai
+</td>
+<td valign="top">Nov 2025 – Apr 2026</td>
+<td valign="top">
 
-> `ESP32` `MQTT` `Predictive Maintenance` `Analytics Dashboards`
+- Built a fleet-wide forklift monitoring platform tracking battery state-of-health, charge cycles, and real-time GPS location across **30+ forklifts** on the factory floor, reducing manual inspection effort by **60%**.
+- Designed the full hardware-software pipeline: ESP32 sensor nodes → MQTT broker → analytics backend → operations dashboard, enabling predictive maintenance and cutting unplanned downtime by **40%**.
+- Delivered battery degradation analytics with systematized maintenance alerts, replacing reactive servicing with proactive intervention and extending average battery lifespan by **20%**.
 
-- Built a fleet-wide forklift monitoring platform tracking battery state-of-health, charge cycles, and real-time GPS location across **30+ forklifts**, reducing manual inspection effort by **60%**.
-- Designed the full hardware-software pipeline: ESP32 sensor nodes → MQTT broker → analytics backend → operations dashboard, cutting unplanned downtime by **40%**.
-- Delivered battery degradation analytics with automated maintenance alerts, extending average battery lifespan by **20%**.
+</td>
+</tr>
 
-</details>
-
-<details>
-<summary><b>RAG and Application Development Intern · Playful Python, Chennai</b> — Dec 2024 – Jan 2025</summary>
-<br>
-
-> `RAG` `Vector Embeddings` `Semantic Retrieval`
+<tr>
+<td valign="top">
+<b>RAG and Application Development Intern</b><br/>
+Playful Python, Chennai
+</td>
+<td valign="top">Dec 2024 – Jan 2025</td>
+<td valign="top">
 
 - Built a production RAG application using vector embeddings and semantic retrieval pipelines, enabling contextually accurate responses across **1,000+ document knowledge bases**.
 - Increased retrieval precision by **35%** through chunk-aware indexing and query rewriting, outperforming keyword-based search on all contextual accuracy benchmarks.
 
-</details>
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
 ### 🚀 Featured Projects
