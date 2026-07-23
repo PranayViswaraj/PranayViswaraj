@@ -11,9 +11,11 @@
 </p>
 
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ### 👋 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class PranayV:
@@ -48,51 +50,29 @@ me = PranayV()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="assets/profile-illustration.png" width="320"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════ TECH BADGES ═══════════════════════════════ -->
 ### 🛠️ Tech Stack
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-informational?style=flat-square&logo=c&logoColor=white&color=00599C"/>
-</p>
+<div align="center">
 
-**Frameworks & AI/ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNN%20%2F%20LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frameworks & AI/ML** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN/LSTM](https://img.shields.io/badge/CNN%20%2F%20LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase RTDB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tools** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![AES-256](https://img.shields.io/badge/AES--256-orange?style=flat-square&logo=letsencrypt&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB%20Design-1A73E8?style=flat-square&logo=altiumdesigner&logoColor=white) |
 
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AES--256-orange?style=flat-square&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-1A73E8?style=flat-square&logo=altiumdesigner&logoColor=white"/>
-</p>
+</div>
 
 <!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 <div align="center">
