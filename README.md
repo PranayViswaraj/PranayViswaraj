@@ -6,7 +6,7 @@
 <!-- ═══════════════════════════════ TYPING HEADER ═══════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/PranayViswaraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+ECE+%28VLSI+Honours%29+Student;AI+%2B+IoT+%2B+Embedded+Systems+Engineer;Building+Real-World+ML+%26+Full-Stack+Solutions;10x%2B+National+Hackathons+Winner+%7C+2+Patents+Filed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+ECE+%28VLSI+Honours%29+Student;AI+%2B+IoT+%2B+Embedded+Systems+Engineer;Building+Real-World+ML+%26+Full-Stack+Solutions;10x%2B+Hackathons+Winner+%7C+2+Patents+Filed" alt="Typing SVG" />
   </a>
 </p>
 
