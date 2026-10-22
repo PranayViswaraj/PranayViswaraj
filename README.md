@@ -20,7 +20,7 @@ I build connected hardware end to end and design and verify digital hardware in 
 - 🔧 **Now:** Embedded Engineer Intern at **Tivor**, building end-of-line test software for automotive electronics (CAN / CAN FD, LIN, SCPI, GigE vision).
 - 🧠 **Focus:** RTL design and verification, embedded and IoT systems, and on-device machine learning.
 - 📜 **Two published Indian patent applications** (Patent Office Journal 24/2026).
-- 🏆 **Hackathons:** Smart India Hackathon 2025 national finalist, plus wins and top finishes at 15+ national-level hackathons.
+- 🏆 **Hackathons:** Smart India Hackathon 2025 national finalist, K-Hacks (CEG) Special Track winner, plus 10+ hackathon wins and top finishes.
 - 🎯 **Looking for:** full-time roles in RTL design, design verification, FPGA prototyping and embedded systems.
 
 ---
@@ -114,8 +114,8 @@ I build connected hardware end to end and design and verify digital hardware in 
 
 ## Achievements & leadership
 
-- **National finals:** Smart India Hackathon 2025 (AICTE) · Startup Surge · PEC Hacks 4.0 (Top 10) · IETE Convention
-- **Hackathon wins & top finishes:** Hack-Infinity 2025 · Hack-Elite 2024 · Make-a-thon 2025 · Hack-Erupt 2026 · K-Hacks 2025 (Special Track) · Elite-Com
+- **National-level results:** Smart India Hackathon 2025 (AICTE), national finalist · K-Hacks 2025 (CEG, Anna University), Special Track winner · PEC Hacks 4.0, Top 10 · IETE Convention, finalist
+- **Hackathon wins & top finishes (10+):** Hack-Erupt 2026 · Hack-Infinity 2025 · Make-a-thon 2025 · Hack-Elite 2024 · Elite-Com · Startup Surge
 - **Leadership:** Joint Secretary, ECE Association, SVCE · Web Developer, Science Club, SVCE
 
 ## Certifications
