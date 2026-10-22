@@ -1,220 +1,132 @@
-<!-- ═══════════════════════════════ HERO BANNER ═══════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranay%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20IoT%20%7C%20Full%20Stack%20Engineer%20%E2%80%94%20Building%20intelligent%2C%20end-to-end%20systems&descAlignY=62&descSize=16" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════ TYPING HEADER ═══════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/PranayViswaraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+ECE+%28VLSI+Honours%29+Student;AI+%2B+IoT+%2B+Embedded+Systems+Engineer;Building+Real-World+ML+%26+Full-Stack+Solutions;10x%2B+Hackathons+Winner+%7C+2+Patents+Filed" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
-### 👋 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```python
-class PranayV:
-    def __init__(self):
-        self.name = "Pranay V"
-        self.location = "Chennai, India"
-        self.degree = "B.E. Electronics & Communication Engineering (VLSI Honours)"
-        self.college = "Sri Venkateswara College of Engineering, 2023–2027"
-        self.role = "AI / IoT / Full-Stack Software Engineer"
-
-        self.stack = {
-            "languages": ["Python", "C", "C++", "SQL", "Embedded C"],
-            "ai_ml": ["RAG", "TinyML", "CNN", "LSTM", "Sensor Fusion",
-                      "Random Forest", "Ensemble Learning"],
-            "full_stack": ["React.js", "Flask", "FastAPI", "Firebase", "MongoDB"],
-            "embedded": ["ESP32", "GSM", "GPS", "LoRa", "I2C", "SPI", "UART", "PCB Design"],
-        }
-
-        self.currently_learning = [
-            "Agentic AI (Oracle Agentic AI Foundations)",
-            "Applied GenAI, LLMs & Prompt Engineering (Yuva AI – MEITY)",
-        ]
-
-        self.fun_fact = "Filed 2 patents before graduating — for a blood-group " \
-                         "detector and a smart farming platform."
-
-    def motto(self):
-        return "Ship real, working systems — not just prototypes."
-
-
-me = PranayV()
-print(me.motto())
-```
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="assets/profile-illustration.png" width="320"/>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════ TECH BADGES ═══════════════════════════════ -->
-### 🛠️ Tech Stack
-
 <div align="center">
 
-| Category | Stack |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Frameworks & AI/ML** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN/LSTM](https://img.shields.io/badge/CNN%20%2F%20LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase RTDB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![AES-256](https://img.shields.io/badge/AES--256-orange?style=flat-square&logo=letsencrypt&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB%20Design-1A73E8?style=flat-square&logo=altiumdesigner&logoColor=white) |
+# Pranay V
+
+**Embedded Systems · VLSI Design & Verification · Edge AI**
+
+Final-year B.E. Electronics & Communication Engineering (VLSI Honors) at Sri Venkateswara College of Engineering, Chennai.
+I build connected hardware end to end and design and verify digital hardware in Verilog.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranayviswaraj.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranayviswaraj.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranayviswaraju-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayviswaraju/)
+[![Email](https://img.shields.io/badge/Email-vpranay2005%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vpranay2005@gmail.com)
 
 </div>
 
-<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
-<div align="center">
-  <a href="https://github.com/PranayViswaraj">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranayViswaraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/PranayViswaraj">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayViswaraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+---
 
-<!-- ═══════════════════════════════ STREAK STATS ═══════════════════════════════ -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PranayViswaraj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
+## About me
 
-<!-- ═══════════════════════════════ ACTIVITY GRAPH ═══════════════════════════════ -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranayViswaraj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</div>
+- 🔧 **Now:** Embedded Engineer Intern at **Tivor**, building end-of-line test software for automotive electronics (CAN / CAN FD, LIN, SCPI, GigE vision).
+- 🧠 **Focus:** RTL design and verification, embedded and IoT systems, and on-device machine learning.
+- 📜 **Two published Indian patent applications** (Patent Office Journal 24/2026).
+- 🏆 **Hackathons:** Smart India Hackathon 2025 national finalist, plus wins and top finishes at 15+ national-level hackathons.
+- 🎯 **Looking for:** full-time roles in RTL design, design verification, FPGA prototyping and embedded systems.
 
-<!-- ═══════════════════════════════ TROPHY WALL ═══════════════════════════════ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranayViswaraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+---
 
-<!-- ═══════════════════════════════ WORK EXPERIENCE ═══════════════════════════════ -->
-### 💼 Work Experience
+## Experience
 
-<table>
-<tr>
-<th align="left" width="26%">Role · Company</th>
-<th align="left" width="14%">Duration</th>
-<th align="left">Description</th>
-</tr>
-
-<tr>
-<td valign="top">
-<b>IoT and Software Engineering Intern</b><br/>
-Rela Hospitals, Chennai
-</td>
-<td valign="top">Feb 2026 – Apr 2026</td>
-<td valign="top">
-
-- Developed a **non-invasive blood group identification system** — the first of its kind at the hospital — using fingerprint pattern analysis with a custom ML inference pipeline on embedded IoT hardware, eliminating the need for blood sampling for **500+ daily patients**.
-- Architected the end-to-end data acquisition pipeline: sensor → ESP32 → ML inference → clinical dashboard, achieving identification latency **under 5 seconds** with **94% classification accuracy**.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-<b>Industrial IoT Project Intern</b><br/>
-Ashok Leyland, Chennai
-</td>
-<td valign="top">Nov 2025 – Apr 2026</td>
-<td valign="top">
-
-- Built a fleet-wide forklift monitoring platform tracking battery state-of-health, charge cycles, and real-time GPS location across **30+ forklifts** on the factory floor, reducing manual inspection effort by **60%**.
-- Designed the full hardware-software pipeline: ESP32 sensor nodes → MQTT broker → analytics backend → operations dashboard, enabling predictive maintenance and cutting unplanned downtime by **40%**.
-- Delivered battery degradation analytics with systematized maintenance alerts, replacing reactive servicing with proactive intervention and extending average battery lifespan by **20%**.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-<b>RAG and Application Development Intern</b><br/>
-Playful Python, Chennai
-</td>
-<td valign="top">Dec 2024 – Jan 2025</td>
-<td valign="top">
-
-- Built a production RAG application using vector embeddings and semantic retrieval pipelines, enabling contextually accurate responses across **1,000+ document knowledge bases**.
-- Increased retrieval precision by **35%** through chunk-aware indexing and query rewriting, outperforming keyword-based search on all contextual accuracy benchmarks.
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[AI-Powered Offline Women Safety Wearable](https://github.com/PranayViswaraj/Hackerrupt-26)** | TinyML • CNN • LSTM • ESP32 • LoRa/GSM/GPS • React.js • Firebase • AES-256 | **96% detection accuracy**, zero cloud dependency; 3-layer offline emergency response (GSM + GPS + LoRa mesh); AES-256 encrypted evidence with auto FIR generation |
-| **AgroSmart — Intelligent Precision Agriculture Platform** | React.js • Flask • MongoDB • ESP32 • Random Forest • Gradient Boosting • CatBoost • MQTT | **92% yield prediction accuracy**; autonomous irrigation cut water use by **30%**; stacked ensemble ML for yield, pest risk & crop health |
-| **[Enterprise RAG Knowledge Assistant](https://github.com/PranayViswaraj/SIH_finale25)** | RAG • Vector Embeddings • Semantic Search | **35% higher retrieval precision** via chunk-aware indexing across **1,000+ document** knowledge bases |
-
-</div>
-
-<!-- ═══════════════════════════════ ACHIEVEMENTS ═══════════════════════════════ -->
-### 🏆 Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|---|---|---|
-| 🥇 | HackInfinity 2025 — Winner | SSN College of Engineering, Chennai |
-| 🥇 | HackElite 2024 — Winner | ECE Dept., SVCE |
-| 🎯 | K-Hacks 2025 — Special Track Winner | CEG, Anna University, Chennai |
-| 🏅 | Smart India Hackathon 2025 — Finalist | MIC & AICTE, National Level |
-| 🏅 | IETE Convention — Finalist | National-level convention |
-| 🏆 | EliteCom & Startup Surge — Winner | Cross-domain product/startup challenges |
-| 📄 | 2 Patents Filed | Indian Patent Office — Blood Group ID system & AgroSmart |
-| 🎓 | 10+ National Hackathons | Consistent record of production-ready rapid prototyping |
-
-</div>
-
-<!-- ═══════════════════════════════ EDUCATION / LEARNING / FOOTER ═══════════════════════════════ -->
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
+| Role | Organization | Period | Highlights |
 |---|---|---|---|
-| B.E. Electronics & Communication Engineering — VLSI Honours | Sri Venkateswara College of Engineering, Chennai | 2023 – 2027 | 9.06 / 10 |
-| Higher Secondary — Computer Science | Sri Chaitanya Techno School, Chennai | 2021 – 2023 | — |
+| **Embedded Engineer Intern** | Tivor, Chennai | Sep 2026 – Present | End-of-line functional test platform for automotive electronics; hardware abstraction layer with runtime driver binding across CAN, DAQ, SCPI and GigE devices; proof of concept on a live production line |
+| **Embedded & Software Engineer Intern** | Rela Hospitals, Chennai | Feb 2026 – Apr 2026 | Non-invasive blood group prediction from fingerprints on ESP32 hardware: **94% accuracy, under 5 s**; tested against clinical requirements |
+| **Industrial IoT Project Intern** | Ashok Leyland, Chennai | Nov 2025 – Apr 2026 | ESP32 → MQTT battery and GPS monitoring for **30+ forklifts**: **−60%** manual inspection, **−40%** unplanned downtime, **+20%** battery life |
+| **RAG & Application Development Intern** | Playful Python, Chennai | Dec 2024 – Jan 2025 | Production RAG assistant over **1,000+ documents**; **+35%** retrieval precision with chunk-aware indexing and query rewriting |
+
+---
+
+## Featured projects
+
+### VLSI design & verification
+
+| Project | What it is | Key results |
+|---|---|---|
+| [**Adaptive Reconfigurable Cache Controller**](https://github.com/PranayViswaraj/Mini-Project---Cache-Memory-Management) | 32-bit, 1–16 KB, 2/4-way write-through cache in Verilog with Random, LRU and Pseudo-LRU replacement and a set-dueling runtime policy selector | **218/218** regression tests vs a Python reference model (~3.7 M requests); **+0.43%** area; up to **−38.7%** stall cycles vs LRU (Yosys + Nangate 45 nm) |
+| [**ARINC 429 Health-Aware Controller**](https://github.com/PranayViswaraj/ARINC429) | Transmitter, receiver and controller RTL for the ARINC 429 avionics bus, with a fault-injection testbench (final-year project) | **271/271** tests; **100%** single-bit parity error detection |
+| **Gesture-to-Speech on FPGA** | FSM-based RTL turning flex-sensor and MPU6050 data into speech | **200 MHz** in Cadence Genus, critical path **< 2 ns**, power **< 25 mW**; validated on an Altera FPGA |
+
+### Embedded systems & IoT
+
+| Project | What it is | Key results |
+|---|---|---|
+| **AgroSmart** · *patent published* | ESP32 → MQTT → Flask → MongoDB → React precision-agriculture platform with a sensor rover, ML-driven drip irrigation and rainwater harvesting | **92%** oilseed yield-forecast accuracy; **−30%** water use |
+| **AI-Powered Offline Women Safety Wearable** | ESP32-S3 wearable running three on-device models (TinyML audio, CNN gesture, LSTM motion) with GSM, GPS and LoRa alerting | **96%** model accuracy; zero cloud dependency |
+| [**PROTECT-R**](https://github.com/PranayViswaraj/ProtectR-Intelligent-Safety-and-Emergency-Response-System) | Camouflaged safety wearable: ESP32, LoRa 433 MHz, MongoDB telemetry and a custom KiCad PCB | Top 10 at PEC Hacks 4.0 |
+| **Forklift Fleet Monitoring** (Ashok Leyland) | Battery health, charge cycles and GPS across a forklift fleet with predictive alerts | 30+ forklifts; −40% downtime |
+| **End-of-Line Test Platform** (Tivor) | Configurable automotive ECU test platform with a hardware abstraction layer | In progress |
+
+### AI, ML & software
+
+| Project | What it is | Key results |
+|---|---|---|
+| **B-Logic** · *patent published* | Blood group prediction from fingerprints with a MobileNet / EfficientNet-B0 / ResNet-50 ensemble, ESP32 capture unit, Flask and React | **94%** accuracy, all 8 ABO/Rh groups |
+| [**RecoverAI**](https://github.com/PranayViswaraj/RecoverAI) | AI agent that ranks failed payments by expected recovery, picks an intervention and passes it through guardrails | Next.js, FastAPI, OpenAI, Razorpay (test mode) |
+| **RAG Knowledge Assistant** (Playful Python) | Retrieval-augmented generation over large document collections | +35% retrieval precision |
+| [**AgriOS (GIS & field data)**](https://github.com/PranayViswaraj/AgriOS-Sample) | FastAPI services for farm registration, field observations, pest traps and hotspot mapping | Team project |
+
+➡️ Full case studies with diagrams and results: **[pranayviswaraj.github.io/projects](https://pranayviswaraj.github.io/projects/)**
+
+---
+
+## Patents & research
+
+- **A Non-Invasive Biometric System for Blood Group Prediction Using Fingerprint Analysis and Adaptive Deep Learning**: IN202641051215 A1, published 12 Jun 2026
+- **An IoT-Enabled Intelligent System for Adaptive Irrigation and Rainwater Harvesting Using Machine Learning**: IN202641051218 A1, published 12 Jun 2026
+- **Smart-Wear: IoT-Enabled AI Healthcare System for Women and Geriatric Care**: published
+- Paper presentations: [AI-powered health bands, energy management, 5G to 6G, radar and sonar signal processing](https://github.com/PranayViswaraj/papers_presented)
+
+---
+
+## Tech stack
+
+**VLSI & digital design**
+![Verilog](https://img.shields.io/badge/Verilog-HDL-222?style=flat-square)
+![Cadence Genus](https://img.shields.io/badge/Cadence-Genus-222?style=flat-square)
+![Quartus Prime](https://img.shields.io/badge/Intel-Quartus%20Prime-0071c5?style=flat-square&logo=intel&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-simulation-222?style=flat-square)
+![Icarus Verilog](https://img.shields.io/badge/Icarus-Verilog-222?style=flat-square)
+![Verilator](https://img.shields.io/badge/Verilator-lint-222?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-synthesis-222?style=flat-square)
+
+**Embedded & protocols**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CAN](https://img.shields.io/badge/CAN%20%2F%20CAN%20FD-LIN-555?style=flat-square)
+![I2C SPI UART](https://img.shields.io/badge/I2C%20·%20SPI%20·%20UART-555?style=flat-square)
+![LoRa](https://img.shields.io/badge/LoRa-GSM%20·%20GPS-555?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+**AI / ML & software**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Achievements & leadership
+
+- **National finals:** Smart India Hackathon 2025 (AICTE) · Startup Surge · PEC Hacks 4.0 (Top 10) · IETE Convention
+- **Hackathon wins & top finishes:** Hack-Infinity 2025 · Hack-Elite 2024 · Make-a-thon 2025 · Hack-Erupt 2026 · K-Hacks 2025 (Special Track) · Elite-Com
+- **Leadership:** Joint Secretary, ECE Association, SVCE · Web Developer, Science Club, SVCE
+
+## Certifications
+
+VLSI Digital Design: Chip Design and Verilog Programming (Infosys Springboard) · Application-Driven Electronics & Embedded Technology with IoT (IITM Pravartak) · Oracle Agentic AI Foundations (Oracle University) · GenAI, LLMs, AI Agents & RAG (Yuva AI, MeitY) · Concepts of Cybersecurity (Microsoft) · Getting Started with Docker (Simplilearn)
+
+---
+
+<div align="center">
+
+**Open to full-time opportunities in VLSI, embedded systems and IoT.**
+[Portfolio](https://pranayviswaraj.github.io) · [LinkedIn](https://www.linkedin.com/in/pranayviswaraju/) · [Email](mailto:vpranay2005@gmail.com)
 
 </div>
-
-### 📚 Currently Learning
-
-```text
-🤖 Agentic AI          → Oracle Agentic AI Foundations
-🧠 Applied GenAI       → LLMs, AI Agents, RAG, Prompt Engineering (Yuva AI, MEITY)
-🔌 Embedded IoT        → Application Driven Electronics & Embedded Tech (IITM - Pravartak)
-📡 Embedded ML         → Embedded Systems & Machine Learning (RAIC, ECE Dept., SVCE)
-```
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:vpranay2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://pranayv-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/PranayViswaraj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PranayViswaraj&style=flat-square&color=70a5fd" alt="Profile views"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
