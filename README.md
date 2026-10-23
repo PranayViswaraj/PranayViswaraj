@@ -51,8 +51,7 @@ I build connected hardware end to end and design and verify digital hardware in 
 | Project | What it is | Key results |
 |---|---|---|
 | **AgroSmart** · *patent published* | ESP32 → MQTT → Flask → MongoDB → React precision-agriculture platform with a sensor rover, ML-driven drip irrigation and rainwater harvesting | **92%** oilseed yield-forecast accuracy; **−30%** water use |
-| **AI-Powered Offline Women Safety Wearable** | ESP32-S3 wearable running three on-device models (TinyML audio, CNN gesture, LSTM motion) with GSM, GPS and LoRa alerting | **96%** model accuracy; zero cloud dependency |
-| [**PROTECT-R**](https://github.com/PranayViswaraj/ProtectR-Intelligent-Safety-and-Emergency-Response-System) | Camouflaged safety wearable: ESP32, LoRa 433 MHz, MongoDB telemetry and a custom KiCad PCB | Top 10 at PEC Hacks 4.0 |
+| [**PROTECT-R: AI-Powered Offline Women Safety Wearable**](https://github.com/PranayViswaraj/ProtectR-Intelligent-Safety-and-Emergency-Response-System) | ESP32-S3 wearable running three on-device models (TinyML audio, CNN gesture, LSTM motion), with GSM, GPS and LoRa 433 MHz alerting, MongoDB telemetry and a custom KiCad PCB | **96%** model accuracy; zero cloud dependency; Top 10 at PEC Hacks 4.0 |
 | **Forklift Fleet Monitoring** (Ashok Leyland) | Battery health, charge cycles and GPS across a forklift fleet with predictive alerts | 30+ forklifts; −40% downtime |
 | **End-of-Line Test Platform** (Tivor) | Configurable automotive ECU test platform with a hardware abstraction layer | In progress |
 
